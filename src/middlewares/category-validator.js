@@ -8,3 +8,7 @@ export const newCategoryValidator = [
     validarCampos,
     handleErrors
 ];
+
+export const deleteCategoryValidator = [
+    
+]

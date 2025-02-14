@@ -6,4 +6,5 @@ const router = Router();
 
 router.post("/newCategory", newCategory, newCategoryValidator)
 
+//router.delete
 export default router;

@@ -21,3 +21,7 @@ export const newCategory = async (req, res) => {
         })
     }
 }
+
+export const deleteCategory = async (req, res ) => {
+    
+}
